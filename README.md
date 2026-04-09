@@ -89,6 +89,11 @@ TranscriptionService.instance.configure(
 
 ## 📱 Screenshots
 
+<div align="center">
+  <img src="screenshots/home.png" width="300" alt="Tela Inicial">
+  <img src="screenshots/historico.png" width="300" alt="Histórico">
+</div>
+
 ### Tela Inicial
 - Botão grande de gravação com animação
 - Lista de transcrições recentes
